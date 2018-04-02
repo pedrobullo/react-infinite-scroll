@@ -1,0 +1,16 @@
+{
+  "name": "react-infinite-scroll",
+  "version": "1.0.0",
+  "description": "Simple and fast application wrapper with already built event management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "infinite scroll",
+    "component"
+  ],
+  "author": "Pedro Bullo Junior",
+  "license": "ISC"
+}
